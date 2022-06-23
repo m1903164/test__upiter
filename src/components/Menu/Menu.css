@@ -1,0 +1,21 @@
+.menu {
+    list-style: none;
+    display: flex;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+
+.menu-item {
+    margin-right: 65px;
+    margin: 0 auto;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: rgba(57, 20, 0, 0.64);
+}
+
+.menu-item:hover {
+    color: #16CD53;
+}
